@@ -206,16 +206,16 @@ app.get("/welcome", async (req, res) => {
 
     ctx.fillStyle = "#ffffff";
     ctx.font = "bold 45px Sans";
-    ctx.fillText("S", 690, 430);
+    ctx.fillText("Make", 690, 430);
 
     ctx.fillStyle = "#ff6ec7";
-    ctx.fillText("Y", 725, 460);
+    ctx.fillText("By", 725, 460);
 
     ctx.fillStyle = "#ffffff";
-    ctx.fillText("N", 710, 430);
+    ctx.fillText("Kurayami", 710, 430);
 
     ctx.fillStyle = "#ffffff";
-    ctx.fillText("C", 745, 460);
+    ctx.fillText("😘", 745, 460);
 
     // ===== HẠT SÁNG =====
 
