@@ -58,7 +58,7 @@ app.get("/welcome", async (req, res) => {
 
     try {
       const bg = await Canvas.loadImage(
-        "https://i.postimg.cc/qMRWDbfk/image.png"
+        "https://i.postimg.cc/GphM99c2/40-Adorable-Anime-i-Pad-Wallpapers-You-Need-to-See-576x1024-2.jpg"
       );
 
       ctx.drawImage(bg, 0, 0, 1200, 500);
