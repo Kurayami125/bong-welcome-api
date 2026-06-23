@@ -202,20 +202,32 @@ app.get("/welcome", async (req, res) => {
       360
     );
 
-    // ===== LOGO GIỮA DƯỚI =====
+    // ===== MAKE BY Kurayami125 =====
 
-    ctx.fillStyle = "#ffffff";
-    ctx.font = "bold 45px Sans";
-    ctx.fillText("Make", 690, 430);
+ctx.font = "bold 34px Sans";
 
-    ctx.fillStyle = "#ff6ec7";
-    ctx.fillText("By", 725, 460);
+// Đổ bóng RGB
+ctx.fillStyle = "#00e5ff";
+ctx.fillText("MAKE BY", 655, 410);
 
-    ctx.fillStyle = "#ffffff";
-    ctx.fillText("Kurayami", 710, 430);
+ctx.fillStyle = "#ff6ec7";
+ctx.fillText("MAKE BY", 651, 406);
 
-    ctx.fillStyle = "#ffffff";
-    ctx.fillText("😘", 745, 460);
+ctx.fillStyle = "#ffffff";
+ctx.fillText("MAKE BY", 653, 408);
+
+// Kurayami125
+ctx.font = "bold 52px Sans";
+
+ctx.fillStyle = "#00e5ff";
+ctx.fillText("Kurayami125", 590, 455);
+
+ctx.fillStyle = "#ff6ec7";
+ctx.fillText("Kurayami125", 586, 451);
+
+ctx.fillStyle = "#ffffff";
+ctx.fillText("Kurayami125", 588, 453);
+
 
     // ===== HẠT SÁNG =====
 
