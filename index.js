@@ -220,13 +220,13 @@ ctx.fillText("MAKE BY", 653, 408);
 ctx.font = "bold 52px Sans";
 
 ctx.fillStyle = "#00e5ff";
-ctx.fillText("Kurayami125", 590, 455);
+ctx.fillText("tuilabong_1003", 590, 455);
 
 ctx.fillStyle = "#ff6ec7";
-ctx.fillText("Kurayami125", 586, 451);
+ctx.fillText("tuilabong_1003", 586, 451);
 
 ctx.fillStyle = "#ffffff";
-ctx.fillText("Kurayami125", 588, 453);
+ctx.fillText("tuilabong_1003", 588, 453);
 
 
     // ===== HẠT SÁNG =====
