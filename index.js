@@ -58,7 +58,7 @@ app.get("/welcome", async (req, res) => {
 
     try {
       const bg = await Canvas.loadImage(
-        "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1600"
+        "https://i.postimg.cc/qMRWDbfk/image.png"
       );
 
       ctx.drawImage(bg, 0, 0, 1200, 500);
